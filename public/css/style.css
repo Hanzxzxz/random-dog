@@ -1,0 +1,14 @@
+.view {
+  height: 250px;
+  border: 3px solid blue;
+  margin-left: 50%;
+  margin-right: auto;
+  transform: translate(-50%);
+}
+ul {
+  width: 90%;
+  height: 400px;
+  overflow: auto;
+  margin: 30px;
+  padding: 20px;
+}
